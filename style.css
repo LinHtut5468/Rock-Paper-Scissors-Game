@@ -1,0 +1,40 @@
+*{
+  font-family:arial;
+}
+ html,body{height:100vh;
+  background:linear-gradient(#050505, #18181d);
+ }
+
+ h1{ padding:26px 0px 16px 10px;
+  color:white; font-size:30px;
+ }
+
+p{
+  color:white; margin-left:10px;
+}
+
+button img{
+  width:50px;
+}
+button{ background-color:transparent;
+  padding:35px; cursor: pointer;
+  border:2.5px solid white;
+  border-radius:50%; margin:8px;
+}
+
+.reset-button{
+  color:black; font-size:14px;
+  border:1px solid white;
+  border-radius:0px;
+  padding:10px 16px;
+  background-color: white;
+}
+
+.js-result{
+  font-size:30px;
+  font-weight:bold;
+}
+
+.move-icon{
+  width:50px;
+}
